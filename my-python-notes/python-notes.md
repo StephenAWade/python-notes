@@ -1,5 +1,5 @@
-#Python Notes
+# Python Notes
 
-##Python Course Notes
+## Python Course Notes
 
 - **Getting Started** - Python course notes
